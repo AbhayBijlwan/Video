@@ -70,7 +70,7 @@ function Signin() {
           <Input placeholder="username"></Input>
           <Input placeholder="email"></Input>
           <Input type="password" placeholder="password"></Input>
-          <Button>sign up</Button>
+          <Button>signing up</Button>
           <More>
             English
             <Links>
